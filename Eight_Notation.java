@@ -6,8 +6,8 @@ public class Eight_Notation {
    public static void main(String[] args){
 	
 	   
-	    String[] alphabet={"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","U","V","Y","Z","W","Q","X"};
-	    Random r=new Random(); //random sýnýfý
+	    String[] alphabet={"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","R","S","T","U","V","Y","Z","W","Q","X","Q","X","0","1","2","3","4","5","6","7","8","9"};
+	    Random r=new Random(); //random sÃ½nÃ½fÃ½
 	    int rand=0;
 	    String []  key = new String[8];
 	    int totalKey=0;
